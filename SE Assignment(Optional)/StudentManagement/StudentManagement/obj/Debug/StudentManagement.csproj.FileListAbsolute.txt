@@ -1,0 +1,6 @@
+G:\My Code\Visual C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+G:\My Code\Visual C#\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+G:\My Code\Visual C#\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+G:\My Code\Visual C#\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+G:\My Code\Visual C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+G:\My Code\Visual C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
